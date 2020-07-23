@@ -4,3 +4,5 @@ It's very easy to make some words **bold** and others *italic* with Markdown. Yo
 Let's make some change in visual studio code.
 
 This is getting too crowded - I need to delete some unneccesary stuff.
+
+new Feature: What do you thin about this? Does this work?
